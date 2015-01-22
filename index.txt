@@ -2,10 +2,21 @@
 % Ben West
 % January 22, 2014
 
-# Nightscout {data-background="images/Nightscout-Vertical-671x1024.png"}
+# Nightscout history
 
+![](images/Nightscout-Horizontal-1024x237.png)
 
-## Getting help {data-background="images/cgm-in-the-cloud/nightscout-support-00-2.png"}
+## History
+- Crowd
+- Social Media
+- Social Media
+
+----------------
+
+## Getting help 
+
+![](images/cgm-in-the-cloud/nightscout-cgm-cloud-joining-01.png)
+![](images/cgm-in-the-cloud/nightscout-cgm-cloud-joining-02.png)
 
 Som ete
 
@@ -28,12 +39,13 @@ Som ete
 - Drink wine
 
 
-------------------
+# Pebble power
 
-![picture of spaghetti](images/pebble-power/pebble-power-01.png)
+![pebble-power](images/pebble-power/pebble-power-01.png)
 
 ## Going to sleep
 
 - Get in bed
 - Count sheep
 
+------------------
