@@ -24,61 +24,6 @@
 ![](images/02-what/00-dexcom/dexcom-tribulations.png)
 
 
-## halloween 05
-
-![](images/03-aggregate/halloween-05.png)
-
-
-## halloween 08
-
-![](images/03-aggregate/halloween-08.png)
-
-
-## halloween 11
-
-![](images/03-aggregate/halloween-11.png)
-
-
-## halloween 12
-
-![](images/03-aggregate/halloween-12.png)
-
-
-## halloween 13
-
-![](images/03-aggregate/halloween-13.png)
-
-
-## halloween 15
-
-![](images/03-aggregate/halloween-15.png)
-
-
-## halloween 20
-
-![](images/03-aggregate/halloween-20.png)
-
-
-## halloween 28
-
-![](images/03-aggregate/halloween-28.png)
-
-
-## nightscout 09
-
-![](images/03-aggregate/nightscout-09.png)
-
-
-## nightscout aggregator 2
-
-![](images/03-aggregate/nightscout-aggregator-2.png)
-
-
-## nightscout noon 04
-
-![](images/03-aggregate/nightscout-noon-04.png)
-
-
 ## nightscout cgm cloud joining 01
 
 ![](images/03-cgm-in-the-cloud/nightscout-cgm-cloud-joining-01.png)
@@ -119,9 +64,119 @@
 ![](images/03-cgm-in-the-cloud/welcome-to-cloud.png)
 
 
+## drop like a rock
+
+![](images/03-why/drop-like-a-rock.png)
+
+
+## nightscout testimonial 11
+
+![](images/03-why/nightscout-testimonial-11.png)
+
+
+## nightscout testimonial 34
+
+![](images/03-why/nightscout-testimonial-34.png)
+
+
+## safe at dance class
+
+![](images/03-why/safe-at-dance-class.png)
+
+
+## scary wsj 01
+
+![](images/03-why/scary-wsj-01.png)
+
+
+## scary wsj 02
+
+![](images/03-why/scary-wsj-02.png)
+
+
+## what does dex say
+
+![](images/03-why/what-does-dex-say.png)
+
+
+## wsj scary whole
+
+![](images/03-why/wsj-scary-whole.png)
+
+
+## azure data out
+
+![](images/04-aggregate/03-azure/azure-data-out.png)
+
+
+## halloween 05
+
+![](images/04-aggregate/halloween-05.png)
+
+
+## halloween 08
+
+![](images/04-aggregate/halloween-08.png)
+
+
+## halloween 11
+
+![](images/04-aggregate/halloween-11.png)
+
+
+## halloween 12
+
+![](images/04-aggregate/halloween-12.png)
+
+
+## halloween 13
+
+![](images/04-aggregate/halloween-13.png)
+
+
+## halloween 15
+
+![](images/04-aggregate/halloween-15.png)
+
+
+## halloween 20
+
+![](images/04-aggregate/halloween-20.png)
+
+
+## halloween 28
+
+![](images/04-aggregate/halloween-28.png)
+
+
+## nightscout 09
+
+![](images/04-aggregate/nightscout-09.png)
+
+
+## nightscout aggregator 2
+
+![](images/04-aggregate/nightscout-aggregator-2.png)
+
+
+## nightscout noon 04
+
+![](images/04-aggregate/nightscout-noon-04.png)
+
+
 ## action softball
 
 ![](images/06-freedom/action-softball.png)
+
+
+## liberty camp
+
+![](images/06-freedom/liberty-camp.png)
+
+
+## must see tv
+
+![](images/06-freedom/must-see-tv.jpg)
 
 
 ## 100 club 01
@@ -144,24 +199,9 @@
 ![](images/100-club/100-club-04.png)
 
 
-## azure data out
-
-![](images/azure/azure-data-out.png)
-
-
 ## bewest nightscout
 
 ![](images/bewest-nightscout.png)
-
-
-## drop like a rock
-
-![](images/drop-like-a-rock.png)
-
-
-## feature prediction fading
-
-![](images/feature-prediction-fading.png)
 
 
 ## cp 01
@@ -184,6 +224,11 @@
 ![](images/features/cp-09.png)
 
 
+## feature prediction fading
+
+![](images/features/feature-prediction-fading.png)
+
+
 ## freedom to plan
 
 ![](images/freedom-to-plan.png)
@@ -197,11 +242,6 @@
 ## pulse github
 
 ![](images/github/pulse-github.png)
-
-
-## liberty camp
-
-![](images/liberty-camp.png)
 
 
 ## nightscout is mongo down 01
@@ -222,11 +262,6 @@
 ## nightscout is mongo down 04
 
 ![](images/mongo/nightscout-is-mongo-down-04.png)
-
-
-## must see tv
-
-![](images/must-see-tv.jpg)
 
 
 ## nightscout cat
@@ -257,16 +292,6 @@
 ## nightscout social support 01
 
 ![](images/nightscout-social-support-01.png)
-
-
-## nightscout testimonial 11
-
-![](images/nightscout-testimonial-11.png)
-
-
-## nightscout testimonial 34
-
-![](images/nightscout-testimonial-34.png)
 
 
 ## nightscout wall clock
@@ -349,32 +374,7 @@
 ![](images/regulatory/ns-820-regs-02.png)
 
 
-## safe at dance class
-
-![](images/safe-at-dance-class.png)
-
-
-## scary wsj 01
-
-![](images/scary-wsj-01.png)
-
-
-## scary wsj 02
-
-![](images/scary-wsj-02.png)
-
-
 ## wearenotwaiting distance
 
 ![](images/wearenotwaiting-distance.png)
-
-
-## what does dex say
-
-![](images/what-does-dex-say.png)
-
-
-## wsj scary whole
-
-![](images/wsj-scary-whole.png)
 
