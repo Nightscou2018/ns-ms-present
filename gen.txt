@@ -24,6 +24,11 @@
 ![](images/02-what/00-dexcom/dexcom-tribulations.png)
 
 
+## is it the strings
+
+![](images/03-cgm-in-the-cloud/is-it-the-strings.png)
+
+
 ## nightscout cgm cloud joining 01
 
 ![](images/03-cgm-in-the-cloud/nightscout-cgm-cloud-joining-01.png)
@@ -32,11 +37,6 @@
 ## nightscout cgm cloud joining 02
 
 ![](images/03-cgm-in-the-cloud/nightscout-cgm-cloud-joining-02.png)
-
-
-## nightscout community support 2
-
-![](images/03-cgm-in-the-cloud/nightscout-community-support-2.png)
 
 
 ## nightscout support 00 2
@@ -84,24 +84,24 @@
 ![](images/03-why/safe-at-dance-class.png)
 
 
-## scary wsj 01
-
-![](images/03-why/scary-wsj-01.png)
-
-
-## scary wsj 02
-
-![](images/03-why/scary-wsj-02.png)
-
-
 ## what does dex say
 
 ![](images/03-why/what-does-dex-say.png)
 
 
-## wsj scary whole
+## wsj scary anecdote
 
-![](images/03-why/wsj-scary-whole.png)
+![](images/03-why/wsj-scary-anecdote.png)
+
+
+## wsj scary detail
+
+![](images/03-why/wsj-scary-detail.png)
+
+
+## wsj scary stories
+
+![](images/03-why/wsj-scary-stories.png)
 
 
 ## azure data out
