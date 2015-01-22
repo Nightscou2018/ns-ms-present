@@ -9,14 +9,14 @@
 ![](images/01-about/bewest-git-wrangler.jpg)
 
 
+## a dexcom inserter
+
+![](images/02-what/00-dexcom/a-dexcom-inserter.png)
+
+
 ## dexcom misfire comments
 
 ![](images/02-what/00-dexcom/dexcom-misfire-comments.png)
-
-
-## dexcom misfire
-
-![](images/02-what/00-dexcom/dexcom-misfire.png)
 
 
 ## dexcom tribulations
@@ -299,24 +299,14 @@
 ![](images/nightscout-wall-clock.png)
 
 
-## nightscout testimonial 16
+## dance camp without lows
 
-![](images/pebble-power/nightscout-testimonial-16.png)
-
-
-## nightscout testimonial 5
-
-![](images/pebble-power/nightscout-testimonial-5.png)
+![](images/pebble-power/dance-camp-without-lows.png)
 
 
-## nightscout testimonial 6
+## pebble kayak
 
-![](images/pebble-power/nightscout-testimonial-6.png)
-
-
-## pebble action 02
-
-![](images/pebble-power/pebble-action-02.png)
+![](images/pebble-power/pebble-kayak.png)
 
 
 ## pebble power 01
@@ -324,9 +314,19 @@
 ![](images/pebble-power/pebble-power-01.png)
 
 
+## pebble soccer 02
+
+![](images/pebble-power/pebble-soccer-02.png)
+
+
 ## pebble soccer
 
 ![](images/pebble-power/pebble-soccer.png)
+
+
+## safer driving
+
+![](images/pebble-power/safer-driving.png)
 
 
 ## twin pebbles
