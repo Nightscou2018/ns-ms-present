@@ -1,380 +1,380 @@
 
 ## 00 nightscout intro
 
-![00 nightscout intro](images/00-nightscout-intro.jpg)
+![](images/00-nightscout-intro.jpg)
 
 
 ## bewest ukulele
 
-![bewest ukulele](images/01-about/bewest-ukulele.jpg)
+![](images/01-about/bewest-ukulele.jpg)
 
 
 ## dexcom misfire comments
 
-![dexcom misfire comments](images/02-what/00-dexcom/dexcom-misfire-comments.png)
+![](images/02-what/00-dexcom/dexcom-misfire-comments.png)
 
 
 ## dexcom misfire
 
-![dexcom misfire](images/02-what/00-dexcom/dexcom-misfire.png)
+![](images/02-what/00-dexcom/dexcom-misfire.png)
 
 
 ## dexcom tribulations
 
-![dexcom tribulations](images/02-what/00-dexcom/dexcom-tribulations.png)
+![](images/02-what/00-dexcom/dexcom-tribulations.png)
 
 
 ## halloween 05
 
-![halloween 05](images/03-aggregate/halloween-05.png)
+![](images/03-aggregate/halloween-05.png)
 
 
 ## halloween 08
 
-![halloween 08](images/03-aggregate/halloween-08.png)
+![](images/03-aggregate/halloween-08.png)
 
 
 ## halloween 11
 
-![halloween 11](images/03-aggregate/halloween-11.png)
+![](images/03-aggregate/halloween-11.png)
 
 
 ## halloween 12
 
-![halloween 12](images/03-aggregate/halloween-12.png)
+![](images/03-aggregate/halloween-12.png)
 
 
 ## halloween 13
 
-![halloween 13](images/03-aggregate/halloween-13.png)
+![](images/03-aggregate/halloween-13.png)
 
 
 ## halloween 15
 
-![halloween 15](images/03-aggregate/halloween-15.png)
+![](images/03-aggregate/halloween-15.png)
 
 
 ## halloween 20
 
-![halloween 20](images/03-aggregate/halloween-20.png)
+![](images/03-aggregate/halloween-20.png)
 
 
 ## halloween 28
 
-![halloween 28](images/03-aggregate/halloween-28.png)
+![](images/03-aggregate/halloween-28.png)
 
 
 ## nightscout 09
 
-![nightscout 09](images/03-aggregate/nightscout-09.png)
+![](images/03-aggregate/nightscout-09.png)
 
 
 ## nightscout aggregator 2
 
-![nightscout aggregator 2](images/03-aggregate/nightscout-aggregator-2.png)
+![](images/03-aggregate/nightscout-aggregator-2.png)
 
 
 ## nightscout noon 04
 
-![nightscout noon 04](images/03-aggregate/nightscout-noon-04.png)
+![](images/03-aggregate/nightscout-noon-04.png)
 
 
 ## nightscout cgm cloud joining 01
 
-![nightscout cgm cloud joining 01](images/03-cgm-in-the-cloud/nightscout-cgm-cloud-joining-01.png)
+![](images/03-cgm-in-the-cloud/nightscout-cgm-cloud-joining-01.png)
 
 
 ## nightscout cgm cloud joining 02
 
-![nightscout cgm cloud joining 02](images/03-cgm-in-the-cloud/nightscout-cgm-cloud-joining-02.png)
+![](images/03-cgm-in-the-cloud/nightscout-cgm-cloud-joining-02.png)
 
 
 ## nightscout community support 2
 
-![nightscout community support 2](images/03-cgm-in-the-cloud/nightscout-community-support-2.png)
+![](images/03-cgm-in-the-cloud/nightscout-community-support-2.png)
 
 
 ## nightscout support 00 2
 
-![nightscout support 00 2](images/03-cgm-in-the-cloud/nightscout-support-00-2.png)
+![](images/03-cgm-in-the-cloud/nightscout-support-00-2.png)
 
 
 ## nightscout testimonial 2
 
-![nightscout testimonial 2](images/03-cgm-in-the-cloud/nightscout-testimonial-2.png)
+![](images/03-cgm-in-the-cloud/nightscout-testimonial-2.png)
 
 
 ## nightscout welcome questions 01
 
-![nightscout welcome questions 01](images/03-cgm-in-the-cloud/nightscout-welcome-questions-01.png)
+![](images/03-cgm-in-the-cloud/nightscout-welcome-questions-01.png)
 
 
 ## nightscout welcome questions 02
 
-![nightscout welcome questions 02](images/03-cgm-in-the-cloud/nightscout-welcome-questions-02.png)
+![](images/03-cgm-in-the-cloud/nightscout-welcome-questions-02.png)
 
 
 ## welcome to cloud
 
-![welcome to cloud](images/03-cgm-in-the-cloud/welcome-to-cloud.png)
+![](images/03-cgm-in-the-cloud/welcome-to-cloud.png)
 
 
 ## action softball
 
-![action softball](images/06-freedom/action-softball.png)
+![](images/06-freedom/action-softball.png)
 
 
 ## 100 club 01
 
-![100 club 01](images/100-club/100-club-01.png)
+![](images/100-club/100-club-01.png)
 
 
 ## 100 club 02
 
-![100 club 02](images/100-club/100-club-02.png)
+![](images/100-club/100-club-02.png)
 
 
 ## 100 club 03
 
-![100 club 03](images/100-club/100-club-03.png)
+![](images/100-club/100-club-03.png)
 
 
 ## 100 club 04
 
-![100 club 04](images/100-club/100-club-04.png)
+![](images/100-club/100-club-04.png)
 
 
 ## azure data out
 
-![azure data out](images/azure/azure-data-out.png)
+![](images/azure/azure-data-out.png)
 
 
 ## bewest nightscout
 
-![bewest nightscout](images/bewest-nightscout.png)
+![](images/bewest-nightscout.png)
 
 
 ## drop like a rock
 
-![drop like a rock](images/drop-like-a-rock.png)
+![](images/drop-like-a-rock.png)
 
 
 ## feature prediction fading
 
-![feature prediction fading](images/feature-prediction-fading.png)
+![](images/feature-prediction-fading.png)
 
 
 ## cp 01
 
-![cp 01](images/features/cp-01.png)
+![](images/features/cp-01.png)
 
 
 ## cp 06
 
-![cp 06](images/features/cp-06.png)
+![](images/features/cp-06.png)
 
 
 ## cp 07
 
-![cp 07](images/features/cp-07.png)
+![](images/features/cp-07.png)
 
 
 ## cp 09
 
-![cp 09](images/features/cp-09.png)
+![](images/features/cp-09.png)
 
 
 ## freedom to plan
 
-![freedom to plan](images/freedom-to-plan.png)
+![](images/freedom-to-plan.png)
 
 
 ## nightscout versions git
 
-![nightscout versions git](images/github/nightscout-versions-git.png)
+![](images/github/nightscout-versions-git.png)
 
 
 ## pulse github
 
-![pulse github](images/github/pulse-github.png)
+![](images/github/pulse-github.png)
 
 
 ## liberty camp
 
-![liberty camp](images/liberty-camp.png)
+![](images/liberty-camp.png)
 
 
 ## nightscout is mongo down 01
 
-![nightscout is mongo down 01](images/mongo/nightscout-is-mongo-down-01.png)
+![](images/mongo/nightscout-is-mongo-down-01.png)
 
 
 ## nightscout is mongo down 02
 
-![nightscout is mongo down 02](images/mongo/nightscout-is-mongo-down-02.png)
+![](images/mongo/nightscout-is-mongo-down-02.png)
 
 
 ## nightscout is mongo down 03
 
-![nightscout is mongo down 03](images/mongo/nightscout-is-mongo-down-03.png)
+![](images/mongo/nightscout-is-mongo-down-03.png)
 
 
 ## nightscout is mongo down 04
 
-![nightscout is mongo down 04](images/mongo/nightscout-is-mongo-down-04.png)
+![](images/mongo/nightscout-is-mongo-down-04.png)
 
 
 ## must see tv
 
-![must see tv](images/must-see-tv.jpg)
+![](images/must-see-tv.jpg)
 
 
 ## nightscout cat
 
-![nightscout cat](images/nightscout-cat.png)
+![](images/nightscout-cat.png)
 
 
 ## nightscout empathy 2
 
-![nightscout empathy 2](images/nightscout-empathy-2.png)
+![](images/nightscout-empathy-2.png)
 
 
 ## Nightscout Horizontal 1024x237
 
-![Nightscout Horizontal 1024x237](images/Nightscout-Horizontal-1024x237.png)
+![](images/Nightscout-Horizontal-1024x237.png)
 
 
 ## Nightscout logo medium
 
-![Nightscout logo medium](images/Nightscout-logo-medium.png)
+![](images/Nightscout-logo-medium.png)
 
 
 ## Nightscout logo small
 
-![Nightscout logo small](images/Nightscout-logo-small.png)
+![](images/Nightscout-logo-small.png)
 
 
 ## nightscout social support 01
 
-![nightscout social support 01](images/nightscout-social-support-01.png)
+![](images/nightscout-social-support-01.png)
 
 
 ## nightscout testimonial 11
 
-![nightscout testimonial 11](images/nightscout-testimonial-11.png)
+![](images/nightscout-testimonial-11.png)
 
 
 ## nightscout testimonial 34
 
-![nightscout testimonial 34](images/nightscout-testimonial-34.png)
+![](images/nightscout-testimonial-34.png)
 
 
 ## nightscout wall clock
 
-![nightscout wall clock](images/nightscout-wall-clock.png)
+![](images/nightscout-wall-clock.png)
 
 
 ## nightscout testimonial 16
 
-![nightscout testimonial 16](images/pebble-power/nightscout-testimonial-16.png)
+![](images/pebble-power/nightscout-testimonial-16.png)
 
 
 ## nightscout testimonial 5
 
-![nightscout testimonial 5](images/pebble-power/nightscout-testimonial-5.png)
+![](images/pebble-power/nightscout-testimonial-5.png)
 
 
 ## nightscout testimonial 6
 
-![nightscout testimonial 6](images/pebble-power/nightscout-testimonial-6.png)
+![](images/pebble-power/nightscout-testimonial-6.png)
 
 
 ## pebble action 02
 
-![pebble action 02](images/pebble-power/pebble-action-02.png)
+![](images/pebble-power/pebble-action-02.png)
 
 
 ## pebble power 01
 
-![pebble power 01](images/pebble-power/pebble-power-01.png)
+![](images/pebble-power/pebble-power-01.png)
 
 
 ## pebble soccer
 
-![pebble soccer](images/pebble-power/pebble-soccer.png)
+![](images/pebble-power/pebble-soccer.png)
 
 
 ## twin pebbles
 
-![twin pebbles](images/pebble-power/twin-pebbles.png)
+![](images/pebble-power/twin-pebbles.png)
 
 
 ## plus beta group
 
-![plus beta group](images/plus_beta_group.png)
+![](images/plus_beta_group.png)
 
 
 ## fda 820 regs
 
-![fda 820 regs](images/regulatory/fda-820-regs.png)
+![](images/regulatory/fda-820-regs.png)
 
 
 ## mdds fda guidance head success
 
-![mdds fda guidance head success](images/regulatory/mdds-fda-guidance-head-success.png)
+![](images/regulatory/mdds-fda-guidance-head-success.png)
 
 
 ## mdds guidance feedback
 
-![mdds guidance feedback](images/regulatory/mdds-guidance-feedback.png)
+![](images/regulatory/mdds-guidance-feedback.png)
 
 
 ## mdds guidance feedback tail
 
-![mdds guidance feedback tail](images/regulatory/mdds-guidance-feedback-tail.png)
+![](images/regulatory/mdds-guidance-feedback-tail.png)
 
 
 ## nightscout testimonial 42
 
-![nightscout testimonial 42](images/regulatory/nightscout-testimonial-42.png)
+![](images/regulatory/nightscout-testimonial-42.png)
 
 
 ## ns 820 quality
 
-![ns 820 quality](images/regulatory/ns-820-quality.png)
+![](images/regulatory/ns-820-quality.png)
 
 
 ## ns 820 regs 02
 
-![ns 820 regs 02](images/regulatory/ns-820-regs-02.png)
+![](images/regulatory/ns-820-regs-02.png)
 
 
 ## safe at dance class
 
-![safe at dance class](images/safe-at-dance-class.png)
+![](images/safe-at-dance-class.png)
 
 
 ## scary wsj 01
 
-![scary wsj 01](images/scary-wsj-01.png)
+![](images/scary-wsj-01.png)
 
 
 ## scary wsj 02
 
-![scary wsj 02](images/scary-wsj-02.png)
+![](images/scary-wsj-02.png)
 
 
 ## wearenotwaiting distance
 
-![wearenotwaiting distance](images/wearenotwaiting-distance.png)
+![](images/wearenotwaiting-distance.png)
 
 
 ## what does dex say
 
-![what does dex say](images/what-does-dex-say.png)
+![](images/what-does-dex-say.png)
 
 
 ## wsj scary whole
 
-![wsj scary whole](images/wsj-scary-whole.png)
+![](images/wsj-scary-whole.png)
 

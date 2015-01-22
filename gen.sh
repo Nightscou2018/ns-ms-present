@@ -6,7 +6,7 @@ find images -type f -name '*.jpg' -or -name '*.png' | sort | while read line ; d
   echo ""
   echo "## $caption"
   echo ""
-  echo "![$caption]($line)"
+  echo "![]($line)"
   echo ""
 
 done
