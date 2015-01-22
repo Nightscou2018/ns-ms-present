@@ -1,0 +1,39 @@
+% Nightscout + Microsoft + JDRF
+% Ben West
+% January 22, 2014
+
+# Nightscout {data-background="images/Nightscout-Vertical-671x1024.png"}
+
+
+## Getting help {data-background="images/cgm-in-the-cloud/nightscout-support-00-2.png"}
+
+Som ete
+
+## Getting up {data-background="#ccff16"}
+
+- Turn off alarm
+- Get out of bed
+
+
+## Breakfast
+
+- Eat eggs
+- Drink coffee
+
+# In the evening
+
+## Dinner
+
+- Eat spaghetti
+- Drink wine
+
+
+------------------
+
+![picture of spaghetti](images/pebble-power/pebble-power-01.png)
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
+
