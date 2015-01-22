@@ -9,6 +9,21 @@
 ![](images/01-about/bewest-git-wrangler.jpg)
 
 
+## Nightscout Horizontal 1024x237
+
+![](images/01-about/Nightscout-Horizontal-1024x237.png)
+
+
+## Nightscout logo medium
+
+![](images/01-about/Nightscout-logo-medium.png)
+
+
+## Nightscout logo small
+
+![](images/01-about/Nightscout-logo-small.png)
+
+
 ## a dexcom inserter
 
 ![](images/02-what/00-dexcom/a-dexcom-inserter.png)
@@ -104,11 +119,6 @@
 ![](images/03-why/wsj-scary-stories.png)
 
 
-## azure data out
-
-![](images/04-aggregate/03-azure/azure-data-out.png)
-
-
 ## halloween 05
 
 ![](images/04-aggregate/halloween-05.png)
@@ -162,6 +172,16 @@
 ## nightscout noon 04
 
 ![](images/04-aggregate/nightscout-noon-04.png)
+
+
+## azure data out
+
+![](images/05-social/03-azure/azure-data-out.png)
+
+
+## plus beta group
+
+![](images/05-social/plus_beta_group.png)
 
 
 ## action softball
@@ -274,21 +294,6 @@
 ![](images/nightscout-empathy-2.png)
 
 
-## Nightscout Horizontal 1024x237
-
-![](images/Nightscout-Horizontal-1024x237.png)
-
-
-## Nightscout logo medium
-
-![](images/Nightscout-logo-medium.png)
-
-
-## Nightscout logo small
-
-![](images/Nightscout-logo-small.png)
-
-
 ## nightscout social support 01
 
 ![](images/nightscout-social-support-01.png)
@@ -332,11 +337,6 @@
 ## twin pebbles
 
 ![](images/pebble-power/twin-pebbles.png)
-
-
-## plus beta group
-
-![](images/plus_beta_group.png)
 
 
 ## fda 820 regs
