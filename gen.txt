@@ -4,9 +4,9 @@
 ![](images/00-nightscout-intro.jpg)
 
 
-## bewest ukulele
+## bewest git wrangler
 
-![](images/01-about/bewest-ukulele.jpg)
+![](images/01-about/bewest-git-wrangler.jpg)
 
 
 ## dexcom misfire comments
