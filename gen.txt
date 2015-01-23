@@ -1,0 +1,380 @@
+
+## 00 nightscout intro
+
+![](images/00-nightscout-intro.jpg)
+
+
+## bewest git wrangler
+
+![](images/01-about/bewest-git-wrangler.jpg)
+
+
+## Nightscout Horizontal 1024x237
+
+![](images/01-about/Nightscout-Horizontal-1024x237.png)
+
+
+## Nightscout logo medium
+
+![](images/01-about/Nightscout-logo-medium.png)
+
+
+## Nightscout logo small
+
+![](images/01-about/Nightscout-logo-small.png)
+
+
+## a dexcom inserter
+
+![](images/02-what/00-dexcom/a-dexcom-inserter.png)
+
+
+## dexcom misfire comments
+
+![](images/02-what/00-dexcom/dexcom-misfire-comments.png)
+
+
+## dexcom tribulations
+
+![](images/02-what/00-dexcom/dexcom-tribulations.png)
+
+
+## is it the strings
+
+![](images/03-cgm-in-the-cloud/is-it-the-strings.png)
+
+
+## nightscout cgm cloud joining 01
+
+![](images/03-cgm-in-the-cloud/nightscout-cgm-cloud-joining-01.png)
+
+
+## nightscout cgm cloud joining 02
+
+![](images/03-cgm-in-the-cloud/nightscout-cgm-cloud-joining-02.png)
+
+
+## nightscout support 00 2
+
+![](images/03-cgm-in-the-cloud/nightscout-support-00-2.png)
+
+
+## nightscout testimonial 2
+
+![](images/03-cgm-in-the-cloud/nightscout-testimonial-2.png)
+
+
+## nightscout welcome questions 01
+
+![](images/03-cgm-in-the-cloud/nightscout-welcome-questions-01.png)
+
+
+## nightscout welcome questions 02
+
+![](images/03-cgm-in-the-cloud/nightscout-welcome-questions-02.png)
+
+
+## welcome to cloud
+
+![](images/03-cgm-in-the-cloud/welcome-to-cloud.png)
+
+
+## drop like a rock
+
+![](images/03-why/drop-like-a-rock.png)
+
+
+## nightscout testimonial 11
+
+![](images/03-why/nightscout-testimonial-11.png)
+
+
+## nightscout testimonial 34
+
+![](images/03-why/nightscout-testimonial-34.png)
+
+
+## safe at dance class
+
+![](images/03-why/safe-at-dance-class.png)
+
+
+## what does dex say
+
+![](images/03-why/what-does-dex-say.png)
+
+
+## wsj scary anecdote
+
+![](images/03-why/wsj-scary-anecdote.png)
+
+
+## wsj scary detail
+
+![](images/03-why/wsj-scary-detail.png)
+
+
+## wsj scary stories
+
+![](images/03-why/wsj-scary-stories.png)
+
+
+## halloween 05
+
+![](images/04-aggregate/halloween-05.png)
+
+
+## halloween 08
+
+![](images/04-aggregate/halloween-08.png)
+
+
+## halloween 11
+
+![](images/04-aggregate/halloween-11.png)
+
+
+## halloween 12
+
+![](images/04-aggregate/halloween-12.png)
+
+
+## halloween 13
+
+![](images/04-aggregate/halloween-13.png)
+
+
+## halloween 15
+
+![](images/04-aggregate/halloween-15.png)
+
+
+## halloween 20
+
+![](images/04-aggregate/halloween-20.png)
+
+
+## halloween 28
+
+![](images/04-aggregate/halloween-28.png)
+
+
+## nightscout 09
+
+![](images/04-aggregate/nightscout-09.png)
+
+
+## nightscout aggregator 2
+
+![](images/04-aggregate/nightscout-aggregator-2.png)
+
+
+## nightscout noon 04
+
+![](images/04-aggregate/nightscout-noon-04.png)
+
+
+## azure data out
+
+![](images/05-social/03-azure/azure-data-out.png)
+
+
+## plus beta group
+
+![](images/05-social/plus_beta_group.png)
+
+
+## action softball
+
+![](images/06-freedom/action-softball.png)
+
+
+## liberty camp
+
+![](images/06-freedom/liberty-camp.png)
+
+
+## must see tv
+
+![](images/06-freedom/must-see-tv.jpg)
+
+
+## 100 club 01
+
+![](images/100-club/100-club-01.png)
+
+
+## 100 club 02
+
+![](images/100-club/100-club-02.png)
+
+
+## 100 club 03
+
+![](images/100-club/100-club-03.png)
+
+
+## 100 club 04
+
+![](images/100-club/100-club-04.png)
+
+
+## bewest nightscout
+
+![](images/bewest-nightscout.png)
+
+
+## cp 01
+
+![](images/features/cp-01.png)
+
+
+## cp 06
+
+![](images/features/cp-06.png)
+
+
+## cp 07
+
+![](images/features/cp-07.png)
+
+
+## cp 09
+
+![](images/features/cp-09.png)
+
+
+## feature prediction fading
+
+![](images/features/feature-prediction-fading.png)
+
+
+## freedom to plan
+
+![](images/freedom-to-plan.png)
+
+
+## nightscout versions git
+
+![](images/github/nightscout-versions-git.png)
+
+
+## pulse github
+
+![](images/github/pulse-github.png)
+
+
+## nightscout is mongo down 01
+
+![](images/mongo/nightscout-is-mongo-down-01.png)
+
+
+## nightscout is mongo down 02
+
+![](images/mongo/nightscout-is-mongo-down-02.png)
+
+
+## nightscout is mongo down 03
+
+![](images/mongo/nightscout-is-mongo-down-03.png)
+
+
+## nightscout is mongo down 04
+
+![](images/mongo/nightscout-is-mongo-down-04.png)
+
+
+## nightscout cat
+
+![](images/nightscout-cat.png)
+
+
+## nightscout empathy 2
+
+![](images/nightscout-empathy-2.png)
+
+
+## nightscout social support 01
+
+![](images/nightscout-social-support-01.png)
+
+
+## nightscout wall clock
+
+![](images/nightscout-wall-clock.png)
+
+
+## dance camp without lows
+
+![](images/pebble-power/dance-camp-without-lows.png)
+
+
+## pebble kayak
+
+![](images/pebble-power/pebble-kayak.png)
+
+
+## pebble power 01
+
+![](images/pebble-power/pebble-power-01.png)
+
+
+## pebble soccer 02
+
+![](images/pebble-power/pebble-soccer-02.png)
+
+
+## pebble soccer
+
+![](images/pebble-power/pebble-soccer.png)
+
+
+## safer driving
+
+![](images/pebble-power/safer-driving.png)
+
+
+## twin pebbles
+
+![](images/pebble-power/twin-pebbles.png)
+
+
+## fda 820 regs
+
+![](images/regulatory/fda-820-regs.png)
+
+
+## mdds fda guidance head success
+
+![](images/regulatory/mdds-fda-guidance-head-success.png)
+
+
+## mdds guidance feedback
+
+![](images/regulatory/mdds-guidance-feedback.png)
+
+
+## mdds guidance feedback tail
+
+![](images/regulatory/mdds-guidance-feedback-tail.png)
+
+
+## nightscout testimonial 42
+
+![](images/regulatory/nightscout-testimonial-42.png)
+
+
+## ns 820 quality
+
+![](images/regulatory/ns-820-quality.png)
+
+
+## ns 820 regs 02
+
+![](images/regulatory/ns-820-regs-02.png)
+
+
+## wearenotwaiting distance
+
+![](images/wearenotwaiting-distance.png)
+
