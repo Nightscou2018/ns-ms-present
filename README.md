@@ -19,4 +19,11 @@ presentation.  While there are all kinds of features for influencing
 slides, I ran out of time and had to suffice with a simple list.
 Maybe slides that just go from left to right are just fine.
 
+Patches to make this better are welcome.  There is supposed to be a way to
+concatenate multiple files, as well as co-ordinate horizontal as well as
+vertical slides.
+
+The html file that pandoc creates must be siblings with the `images` directory
+and with a checkout of `reveal.js`.  It's possible to use pandoc to create
+other renderings of this as well.
 
