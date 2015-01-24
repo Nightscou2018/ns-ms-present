@@ -7,6 +7,9 @@ and generate a new slide for each one.
 
 http://bewest.github.io/ns-ms-present/?theme=solarized#/nightscout-intro
 
+* [WEB](http://bewest.github.io/ns-ms-present/?theme=solarized#/nightscout-intro)
+* [PDF](http://bewest.github.io/ns-ms-present/presentation.pdf)
+
 ### colophon
 
 Useful links:
